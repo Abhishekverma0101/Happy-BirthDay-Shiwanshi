@@ -528,7 +528,7 @@ position: relative;
 }
 
 #homeContainer{
-    gap: 50px;
+    gap: 150px;
     flex-direction: column;
 }
     .carousel-inner {
